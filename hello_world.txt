@@ -1,2 +1,3 @@
 "Hello World!"
 "It's a nice day today!"
+"I hope it wont rain"
